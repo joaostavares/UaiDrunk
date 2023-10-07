@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: //azure db url goes here
+  jpa:
+    show-sql: 'true'
+    hibernate:
+      ddl-auto: update

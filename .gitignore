@@ -1,0 +1,9 @@
+# back
+uaidrunk-back/.mvn
+uaidrunk-back/target
+HELP.md
+microservice.iml
+
+# front
+uaidrunk-front/node_modules
+uaidrunk-front/.next

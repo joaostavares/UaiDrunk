@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .btnr{
+        @apply flex justify-center items-center
+        bg-red-600 border border-white text-white
+        px-4 py-2 rounded-lg my-4 h-[9vh] mt-12 mb-12
+    }
+
+    .btng{
+        @apply flex justify-center items-center
+        bg-green-500 border border-white text-white
+        px-4 py-2 rounded-lg my-4 h-[9vh] mt-12 mb-12
+    }
+
+    .btny{
+        @apply flex justify-center items-center
+        bg-yellow-500 border border-white text-white
+        px-4 py-2 rounded-lg my-4 h-[9vh] mt-12 mb-12
+    }
+
+    .btnb{
+        @apply flex justify-center items-center
+        bg-blue-500 border border-white text-white
+        px-4 py-2 rounded-lg my-4 h-[9vh] mt-12 mb-12
+    }
+
+    .btnp{
+        @apply flex justify-center items-center
+        bg-purple-700 border border-white text-white
+        px-4 py-2 rounded-lg my-4 h-[9vh] mt-12 mb-12
+    }
+
+    .btno{
+        @apply flex justify-center items-center
+        bg-orange-500 border border-white text-white
+        px-4 py-2 rounded-lg my-4 h-[9vh] mt-[115px] mb-12
+    }
+
+    .btnbl{
+        @apply flex justify-center items-center
+        bg-black border border-white text-white
+        px-4 py-2 rounded-lg my-4 h-[9vh] mt-12 mb-12
+    }
+
+    .btnbi{
+        @apply flex justify-center items-center
+        bg-blue-800 border border-white text-white
+        px-4 py-2 rounded-lg my-4 h-[9vh] mt-12 mb-12
+    }
+}
