@@ -4,7 +4,7 @@
   </p>
 </div>
 
-# UaiDrunk Arduino Code
+# UaiDrunk Front End
 
 ### Requirements
 - Back-End Running
