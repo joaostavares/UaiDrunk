@@ -14,4 +14,4 @@
 
 The execution instructions for each part of the project can be found in their directories within this repository.
 
-Keep in mind that these codes only contain the stable and tested part that was fully presented during the fair, there is a considerable portion of code that was considered by me to be poorly optimized or in need of refactoring 
+Please note that these codes only contain the stable and tested part that was presented in full during the fair, there is a considerable portion of code that was considered by me to be poorly optimized or in need of refactoring, which was therefore excluded from the code compilation.
