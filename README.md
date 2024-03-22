@@ -12,8 +12,8 @@
 
 ### Complete repository of the project made for FETIN
 
-The execution instructions for each part of the project can be found in their directories within this repository.
+The execution/deploy instructions are contained in each of the subfolders of this project
 
-Note that these codes only contain the tested part that was presented in full during the fair, there is a considerable portion of code that was considered by me to be poorly optimized or in need of refactoring, which was therefore excluded from this code compilation.
+The codes in this repository only contain the portion of the code presented during the student fair and do not include the experimental part of the code that was left out of the presentation due to lack of testing and/or lack of optimization
 
-Also be aware that the instructions are very summarized (not to say incomplete) and are only for those who know what they are doing, the project was just a proof of concept, the code has little or no refinement, and so little can be considered "stable", it just works as intended
+Keep in mind that the instructions within the subfolders are quite summarized and require a little prior knowledge if you want to execute/modify them.
