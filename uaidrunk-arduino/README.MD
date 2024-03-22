@@ -16,4 +16,3 @@
 - Set at least backEnd Project and run it
 - Fill `safe.h` with your Wi-Fi credentials and server address.
 - Upload the code to your Arduino Board
-- Be Happy (Or not)
