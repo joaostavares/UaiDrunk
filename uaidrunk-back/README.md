@@ -21,7 +21,6 @@
 - put your azure credentials in `application.properties`
 - Run through IDE
 - use Postman  **OR** build front and call api from there
-- Be Happy (Or not)
 
 ### Disclaimer:
 This project was made for a specific use, and specifically for use in an Azure machine.
