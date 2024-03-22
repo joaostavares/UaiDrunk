@@ -12,7 +12,7 @@
 
 ### Complete repository of the project made for FETIN
 
-The execution/deploy instructions are contained in each of the subfolders of this project
+*The execution/deploy instructions are contained in each of the subfolders of this project*
 
 The codes in this repository only contain the portion of the code presented during the student fair and do not include the experimental part of the code that was left out of the presentation due to lack of testing and/or lack of optimization
 
