@@ -7,10 +7,8 @@
 # UaiDrunk Front End
 
 ### Requirements
-- Back-End Running
+- Back-End Running locally or cloud
 
 ### How to use
-- Set at least backEnd Project and run it
 - Fill `.env` with your server address.
 - Run `yarn dev`
-- Be Happy (Or not)
